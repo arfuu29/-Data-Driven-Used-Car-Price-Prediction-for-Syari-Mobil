@@ -84,3 +84,7 @@ Proyek ini berhasil mengembangkan model prediksi yang tidak hanya akurat secara 
     
 
 Implementasi model ini akan menjadi langkah transformatif, mendorong Syari Mobil menuju pengambilan keputusan yang lebih cerdas dan berbasis data.
+
+-----------
+
+Kunjungi https://syaricar.streamlit.app untuk demo aplikasi prediksi harga mobil bekas di Arab Saudi
